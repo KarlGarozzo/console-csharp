@@ -1,0 +1,15 @@
+/workspaces/console-csharp/bin/Debug/net10.0/console-csharp
+/workspaces/console-csharp/bin/Debug/net10.0/console-csharp.deps.json
+/workspaces/console-csharp/bin/Debug/net10.0/console-csharp.runtimeconfig.json
+/workspaces/console-csharp/bin/Debug/net10.0/console-csharp.dll
+/workspaces/console-csharp/bin/Debug/net10.0/console-csharp.pdb
+/workspaces/console-csharp/obj/Debug/net10.0/console-csharp.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/console-csharp/obj/Debug/net10.0/console-csharp.AssemblyInfoInputs.cache
+/workspaces/console-csharp/obj/Debug/net10.0/console-csharp.AssemblyInfo.cs
+/workspaces/console-csharp/obj/Debug/net10.0/console-csharp.csproj.CoreCompileInputs.cache
+/workspaces/console-csharp/obj/Debug/net10.0/console-csharp.sourcelink.json
+/workspaces/console-csharp/obj/Debug/net10.0/console-csharp.dll
+/workspaces/console-csharp/obj/Debug/net10.0/refint/console-csharp.dll
+/workspaces/console-csharp/obj/Debug/net10.0/console-csharp.pdb
+/workspaces/console-csharp/obj/Debug/net10.0/console-csharp.genruntimeconfig.cache
+/workspaces/console-csharp/obj/Debug/net10.0/ref/console-csharp.dll
